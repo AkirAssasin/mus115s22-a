@@ -1,7 +1,6 @@
 # Holiday Notes
 
 Notes from watching one YouTube video on music theory every day during the holidays.
-*(Formatting: do not delete stuff from previous days, cross them out instead.)*
 
 ## Day 1. [A Beginner's Guide to Music Theory](https://youtu.be/n2z02J4fJwg)
 
@@ -19,7 +18,8 @@ Notes from watching one YouTube video on music theory every day during the holid
 - **octave**
   - an octave starts with `C`, has 12 semitones
   - 12-equal means each semitone is a $\sqrt[12]{2}$ step on a logarithmic scale
-  - jumping one octave up = doubling frequency
+    - next note $f_{i + 1} = (\sqrt[12]{2})f_i$
+    - next octave $f_{i + 12} = 2f_i$
 - **scale**
   - common types: major and minor
   - has a root note
@@ -29,3 +29,12 @@ Notes from watching one YouTube video on music theory every day during the holid
   - major triad: 1st, 3rd, 5th notes in the major scale
     - same with minor triads
   - adding $x$-th key to a triad makes it a $x$-th chord
+
+## Day 2. [How Chord Progressions Work](https://youtu.be/fCNuaubi95Q)
+
+- **chords**
+  - can be major (`K`), minor (`k`) or diminished (`k°`)
+  - tonal function based on the key they exist in
+  - the 7 notes of the key's scale form the 7 chords
+    - **key of `K` major:** `K = I`, `ii`, `iii`, `IV`, `V`, `vi`, `vii°`
+    - **key of `k` minor:** `k = i`, `ii°`, `III`, `iv`, `v`, `VI`, `VII`
