@@ -18,16 +18,15 @@ Notes from watching YouTube videos on music theory every day during the holidays
 - **octave**
   - an octave starts with `C`, has 12 semitones
   - 12-equal means each semitone is a $\sqrt[12]{2}$ step on a logarithmic scale
-    - next note $f_{i + 1} = (\sqrt[12]{2})f_i$
-    - next octave $f_{i + 12} = 2f_i$
+    - frequency of next note $f_{i + 1} = (\sqrt[12]{2})f_i$
+    - frequency of next octave $f_{i + 12} = 2f_i$
 - **scale**
   - common types: major and minor
   - has a root note
-  - C major scale is a major scale with a root note of `C`
+  - `C` major scale is a major scale with a root note of `C`
 - **chords**
   - a group of notes played together
-  - major triad: 1st, 3rd, 5th notes in the major scale
-    - same with minor triads
+  - triad: 1st, 3rd, 5th notes in some scale
 
 ## Day 2. [The Circle of Fifths - How to Actually Use It](https://youtu.be/d1aJ6HixSe0)
 
@@ -60,4 +59,14 @@ Notes from watching YouTube videos on music theory every day during the holidays
 
 ## Day 3. [Major, Minor, Diminished Scales](https://youtu.be/GrqZnRs6-xI)
 
-- it's not day 3 yet
+- **scales**
+  - a set of notes with predefined intervals between notes
+  - notation here is counting up from the first note
+  - major scales: `2 2 1 2 2 2 1`
+  - diminished scales: `2 1 2 1 2 1 2 1`
+  - **minor scales**
+    - natural minor: `2 1 2 2 1 2 2`
+    - harmonic minor: `2 1 2 2 1 3 1`
+    - **melodic minor**
+      - ascending: `2 1 2 2 2 2 1`
+      - descending: same as harmonic
