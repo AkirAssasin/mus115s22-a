@@ -70,3 +70,20 @@ Notes from watching YouTube videos on music theory every day during the holidays
     - **melodic minor**
       - ascending: `2 1 2 2 2 2 1`
       - descending: same as harmonic
+
+## Day 4. [Why Chord Progressions Work](https://youtu.be/bFY4Az15uKQ)
+
+- a large part of music comes from the listener's expectation
+  - anticipating what comes next, pattern recognition
+- **tonal functions**
+  - the 7 chords in a key can be split into 3 classes
+  - **tonic**
+    - usually "stability"
+    - 1st, 3rd and 6th chords
+  - **subdominant**
+    - usually "departure"
+    - 2nd and 4th chords
+  - **dominant**
+    - usually "tension"
+    - 5th and 7th chords
+  - most basic blueprint: tonic $\rightarrow$ subdominant $\rightarrow$ dominant
