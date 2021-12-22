@@ -87,3 +87,10 @@ Notes from watching YouTube videos on music theory every day during the holidays
     - usually "tension"
     - 5th and 7th chords
   - most basic blueprint: tonic $\rightarrow$ subdominant $\rightarrow$ dominant
+
+## Day 5. [Chord Voicing](https://youtu.be/VdEb2dABSeY)
+
+- the same chord can be played with different octave and multiplicity of notes
+  - this is the "voicing" of the chord
+- often the lowest note is the root note of the chord, but free to experiment
+- sometimes middle notes can even be left out in a voicing
