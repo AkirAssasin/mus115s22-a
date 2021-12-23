@@ -94,3 +94,28 @@ Notes from watching YouTube videos on music theory every day during the holidays
   - this is the "voicing" of the chord
 - often the lowest note is the root note of the chord, but free to experiment
 - sometimes middle notes can even be left out in a voicing
+
+## Day 6. [How Pentatonic Scales Work](https://youtu.be/71dDH_Q4Bjg)
+
+- **pentatonic scale**
+  - broad meaning: any scale that contains 5 notes
+  - **major pentatonic scale**
+    - 1st, 2nd, 3rd, 5th, 6th notes of the major scale
+  - **minor pentatonic scale**
+    - 1st, 3rd, 4th, 5th, 7th notes of the natural minor scale
+  - **tonally complete**
+    - you can make complete songs from just the notes in a pentatonic scale
+    - good safety and stability when improvising
+      - not always though
+    - why? because they are stable notes in the diatonic/heptatonic scale
+      - also makes it more boring if you overdo it
+- **tonal stability**
+  - stability of the notes in a diatonic/heptatonic scale
+  - melodies are often pulled back towards these notes
+  - the root / first / tonic note is the most stable in a major scale
+    - followed by the 3rd and 5th notes
+      - followed by the 2nd and 6th notes
+        - least stable are 4th and 7th notes
+          - because they are pulled to the 3 most stable notes (?)
+          - therefore known as "leading" notes
+          - apparently clashes with more stable notes when played together (?)
