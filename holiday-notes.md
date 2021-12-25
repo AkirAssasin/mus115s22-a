@@ -119,3 +119,58 @@ Notes from watching YouTube videos on music theory every day during the holidays
           - because they are pulled to the 3 most stable notes (?)
           - therefore known as "leading" notes
           - apparently clashes with more stable notes when played together (?)
+
+## Day 8. [Learn music theory in half an hour](https://youtu.be/rgaTLrZGlk0)
+
+- **music theory**
+  - the language behind music
+- **notes**
+  - frequency of vibration perceived as sound
+  - names relate to the layout of the keyboard
+    - white keys: `A, B, C, D, E, F, G`
+    - black keys: relative to adjacent white keys, either `♭` lower or `♯` higher
+      - which adjacent white key to choose?
+        - in a scale, try to make all letters appear once in order
+- **key**
+  - not to be confused with a "key" on the keyboard
+  - often used interchangeably with "scale", but not really the same
+  - a guide of what notes would sound good together
+  - a typical song often uses only 1 key
+- **chords**
+  - multiple notes played at the same time
+  - usually played in the key of the song
+    - often more useful to think of them relative to a key too
+      - can be translated to another key to "recreate" the pattern
+      - useful in analysis
+  - **triads**
+    - major triads: 1st, 5th, 8th semitones (+4, +3)
+    - minor triads: 1st, 4th, 8th semitones (+3, +4)
+    - 1st to 6th degrees of triads in a scale (using 1st to 6th notes as base)
+      - is there a 7th degree? or is it irrelevant (?)
+  - **relative minor**
+    - move a major scale 3 semitones down to get its relative minor scale
+  - **inversion**
+    - changing the octaves (a.k.a. order) of notes in a triad
+    - often used to make notes of consequential triads closer together
+      - or even share one or two notes
+      - easier to play, often sounds more natural
+      - occupy more consistent range, easier to mix with other instrument ranges
+    - also changes the "flavour" of the chord
+      - can also add more different octave, same notes
+      - example: reinforcing with 1st note in a lower octave
+- **melodies**
+  - single sequences of notes, often played above chords
+  - interplay with notes played in the chord (tension, stability)
+    - notes that are in the chord are stable, easier to sound ok but more boring
+    - notes that are in between notes in the chord give more tension
+    - try to play around with both
+    - melodies (or part of it) usually end in a stable position
+- **rhythm**
+  - music is divided into "bars", a.k.a. "measure"
+  - for a typical $\tfrac{4}{4}$:
+    - 4 beats, 4 quarter-notes
+    - can be subdivided to eighth-notes, sixteenth-notes (typically no further)
+       1 |   |   |   | 2 |   |   |   | 3 |   |   |   | 4 |   |   | $ $
+      ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
+       1 |   | & |   | 2 |   | & |   | 3 |   | & |   | 4 |   | & |
+       1 | e | & | a | 2 | e | & | a | 3 | e | & | a | 4 | e | & | a
