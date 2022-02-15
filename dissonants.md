@@ -6,3 +6,6 @@
 - anticipation notes (next chord have, but current chord is dissonant)
 - passing notes (do re mi) (dissonant re)
   - "walking up" / "walking down" to the next chord
+- off-beat resolution vs. on-beat resolution
+  - resolution i.e. return to a stable note
+  - on-beat resolution is usually stronger
